@@ -190,3 +190,7 @@ npm run build
 ## 7. Responsible Analytics Disclaimer
 
 GOLDX is an explainable research prototype created for Hack in Hills '26 Problem Statement 03. It does not provide personalized investment advice or guaranteed market profit predictions. Market participants must assess executable liquidity, physical delivery obligations, and margin requirements independently.
+
+## 8. Project link
+
+inspiring-conkies-060cd7.netlify.app
