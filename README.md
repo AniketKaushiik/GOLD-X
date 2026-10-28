@@ -193,4 +193,4 @@ GOLDX is an explainable research prototype created for Hack in Hills '26 Problem
 
 ## 8. Project link
 
-inspiring-conkies-060cd7.netlify.app
+🚀 Live Demo: https://inspiring-conkies-060cd7.netlify.app/
